@@ -1,0 +1,2 @@
+[0209/225711.686:ERROR:directory_reader_win.cc(43)] FindFirstFile +C:\Users\HP\AppData\Local\Chrome\User Data\Crashpad\attachments: 系统找不到指定的路径。 (0x3)
+[0210/131117.094:ERROR:directory_reader_win.cc(43)] FindFirstFile +C:\Users\HP\AppData\Local\Chrome\User Data\Crashpad\attachments: 系统找不到指定的路径。 (0x3)
